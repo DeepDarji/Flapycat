@@ -1,35 +1,38 @@
 # Flappy Cat
 
-## Project Overview
+## Overview
 
-Introducing Flappy Cat, a Unity project inspired by the classic Flappy Bird game.
+Welcome to **Flappy Cat**, a simple and fun game inspired by the classic Flappy Bird. Tap or click to make the cat fly and navigate through obstacles.
 
-## Project Details
+## Gameplay
 
-Here is my project called **Flappy Cat**. It was made in Unity based on the concept of Flappy Bird.
+The game is designed to be easy and intuitive:
 
-Click the button below to play:
-
-[Play Flappy Cat](https://play.unity.com/mg/other/flappy-cat-1)
+- **Controls:** Tap or click to make the cat jump.
+- **Objective:** Navigate the cat through pipes without hitting them to score points.
 
 ## Screenshots
 
 Include screenshots or gifs of your game in action.
 
-![Flappy Cat Screenshot](/1.jpg)
-![Flappy Cat Screenshot](/2.jpg)
+![Flappy Cat Gameplay](/1.jpg)
+![Flappy Cat Gameplay](/2.jpg)
 
-## How to Run
+## How to Play
 
-Provide instructions on how to run or play your game locally, if applicable.
+1. **Click and Play:** Click [Releases](https://play.unity.com/mg/other/flappy-cat-1) and Play it.
+2. **Run the Game:** Launch the game on your device.
+3. **Play:** Tap or click to make the cat jump and enjoy the game!
 
-## Development
+## Development Details
 
-Share details about the development process, technologies used, and any challenges you faced.
+- **Engine:** Unity
+- **Controls:** Implemented touch/click controls for easy and enjoyable gameplay.
 
-## Acknowledgments
+## Credits
 
-Give credit to any libraries, assets, or tutorials you used.
+- Flappy Cat game created by [Deep D.](https://deepdarji.github.io/)
+- Game assets credit to original owner.
 
 ## License
 
