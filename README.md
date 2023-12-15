@@ -16,7 +16,8 @@ Click the button below to play:
 
 Include screenshots or gifs of your game in action.
 
-![Flappy Cat Screenshot](path/to/screenshot.png)
+![Flappy Cat Screenshot](/1.jpg)
+![Flappy Cat Screenshot](/2.jpg)
 
 ## How to Run
 
